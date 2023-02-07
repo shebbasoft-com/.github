@@ -1,3 +1,3 @@
 Shebbasoft
 ====
-Welcome the Shebbasoft's github page.
+Welcome to Shebbasoft's github page.
